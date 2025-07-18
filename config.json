@@ -1,0 +1,14 @@
+{
+  "token": "YCPO3JbsIx6iKdNCJRgPhTep7dDEev7uDuhcp3fRI4kDO3cUH5cwLFy0egHh",
+  "doi": ["10.5281/zenodo.15894543"],
+  "files": ["EN_BCE.zip", "ES_BCE.zip"],
+  "metadata": {
+    "title": "BCE",
+    "upload_type": "publication",
+    "description": "Nuevo paradigma para el BCE y traslado de los impuestos al propio dinero.",
+    "creators": [
+      { "name": "Estrada Diaz, Victor", "affiliation": "Investigador Independiente" }
+    ],
+    "keywords": ["monetary reform", "economic system", "transparency"]
+  }
+}
